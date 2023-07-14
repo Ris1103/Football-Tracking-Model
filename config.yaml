@@ -1,0 +1,6 @@
+path: D:\Work\02Projects\Football-Detection-Model
+train: Dataset\train
+val: Dataset\test
+#classes:
+names:
+  0: football
