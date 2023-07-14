@@ -5,6 +5,7 @@
 
 # Downloading the Dataset
  The dataset can be downloaded by running the commands from the commands.txt file in the terminal while in the root directory and by following the instructions.
+ The data can also be downloaded manually from Google Open Image Dataset(https://storage.googleapis.com/openimages/web/index.html)
 
 # Annotating the data
  To annotate the data, we can either download the annotated image or we can even do it manually using open image annotations platforms like 
