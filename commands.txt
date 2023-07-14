@@ -1,0 +1,15 @@
+This is the commands to download the data from open image library
+
+**All these commands should be run in the root directory of the project
+
+1. git clone https://github.com/EscVM/OIDv4_ToolKit.git
+clone the github repository of the open dataset library
+
+2. pip3 install -r /requirements.txt
+install requirements.txt in the directory of OIDv4_ToolKit
+
+3. python /OIDv4_ToolKit/main.py downloader --classes  classes1 classes2 --type_csv train --limit number of images
+in the root directory run this command. The name of the classes should be precise to what it is written over on the website.
+
+4. python /OIDv4_ToolKit/main.py downloader --classes  Clsses1 Classes2 --type_csv test --limit number of images
+
